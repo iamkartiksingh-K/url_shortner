@@ -1,0 +1,16 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:iamkartiksingh-K/url_shortner.git"
+  },
+  "license": "ISC",
+  "author": "Kartik Singh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
